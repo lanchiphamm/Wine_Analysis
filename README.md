@@ -17,4 +17,4 @@ This project utilized an analysis with 13 chemical components of wine in order t
 5. Testing & Results
 6. Discussion & Closing
 
-For full project, see 
+For full project report, see [Wine Analysis Notebook](https://github.com/lanchiphamm/Wine_Analysis/blob/main/Wine%20Analysis%20Notebook.ipynb).
