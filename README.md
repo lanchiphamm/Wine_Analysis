@@ -2,7 +2,7 @@
 
 ## Completed April 2022 with members: Herman Liao, Georgia Simkin, Richard Li
 
-This project utilized an analysis with 13 chemical components of wine in order to build a classification model that can predict a wine's type given its chemical constituents.
+This project utilized an analysis with 13 chemical components of wine in order to build a classification model that can predict a wine's type given its chemical constituents. The full project is reported using R in Jupyter Notebook.
 
 *Data source*: UCI Machine Learning Repository
 
